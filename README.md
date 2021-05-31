@@ -1,0 +1,1 @@
+# do-rusal-regresyon-ve-makine-ogrenmesi
